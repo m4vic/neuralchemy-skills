@@ -46,6 +46,7 @@ These concepts form the backbone of all modern AI systems.
 - Gradient descent & variants  
 
 ### 🔹 Training Essentials
+- backprop - https://youtu.be/SmZmBKc7Lrs?si=QXWJ7khnIg6EORD4
 - Autograd  
 - Optimizers (SGD, Adam, RMSprop)  
 - Weight initialization  
